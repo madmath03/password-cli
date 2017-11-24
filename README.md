@@ -2,6 +2,7 @@
 
 [![Build
 Status](https://secure.travis-ci.org/madmath03/password-cli.png)](https://travis-ci.org/madmath03/password-cli)
+[![codecov](https://codecov.io/gh/madmath03/password-cli/branch/master/graph/badge.svg)](https://codecov.io/gh/madmath03/password-cli)
 
 A simple CLI to hash passwords and check passwords VS hashed values.
 
