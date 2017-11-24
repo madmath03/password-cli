@@ -5,4 +5,4 @@ jdk:
 
 script:
 - mvn clean install
-- mvn test verify site
+- mvn test verify
