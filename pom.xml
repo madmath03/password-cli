@@ -68,7 +68,7 @@
 		<!-- Build properties -->
 		<madmath03.passwords.version>password-1.1.0</madmath03.passwords.version>
 		<commonscli.version>1.4</commonscli.version>
-		<log4j2.version>2.7</log4j2.version>
+		<log4j2.version>2.16.0</log4j2.version>
 		<maven.compiler.version>3.3</maven.compiler.version>
 		<maven.assembly.version>3.0.0</maven.assembly.version>
 
